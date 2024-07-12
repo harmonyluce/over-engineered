@@ -5,4 +5,4 @@ A linear model fitting function, with emphasis on quantifying uncertainty on par
 An over-the-top rework of a popular cross-tabulation function, where the main objective is to reduce confusion when identifying marginal, joint, and conditional estimated probabilities.
 
 ## testing math
-$x^2=\sqrt{17}$
+$$x^2=\sqrt{17}$$
